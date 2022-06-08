@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CZT5551
+D 600mA Ic, 180V Vce, NPN Transistor, General Purpose Transistor, SOT-223
+K NPN General Puprose Transistor SMD
+F https://www.onsemi.com/pub/Collateral/PN2222-D.PDF
+$ENDCMP
+#
+#End Doc Library
